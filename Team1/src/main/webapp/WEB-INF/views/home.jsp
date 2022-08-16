@@ -5,12 +5,9 @@
 	<title>Home</title>
 </head>
 <body>
-<h1>
-	Hello world!  minhyuck Test 1:11 íì¤í¸!
-</h1>
+
 
 <P>  The time on the server is ${serverTime}. </P>
-<h1>깃허브 연습</h1>
-<h2>dasd</h2>
+<h1>브랜치테스트</h1>
 </body>
 </html>
