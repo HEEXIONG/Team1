@@ -21,10 +21,16 @@
 
 <P>  The time on the server is ${serverTime}. </P>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <h1>sadasdasd</h1>
 =======
 <h1>ë¸ëì¹íì¤í¸</h1>
 <h2>브랜치연습</h2>
+>>>>>>> refs/heads/kyg
+=======
+<h1>Ã«Â¸ÂÃ«ÂÂÃ¬Â¹ÂÃ­ÂÂÃ¬ÂÂ¤Ã­ÂÂ¸</h1>
+<h2>ë¸ëì¹ì°ìµ</h2>
+<h1>브랜치연습</h1>
 >>>>>>> refs/heads/kyg
 </body>
 </html>
