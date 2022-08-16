@@ -5,10 +5,23 @@
 	<title>Home</title>
 </head>
 <body>
+<<<<<<< HEAD
 <h1>
-	Hello world!  minhyuck Test 1:11 테스트!
+	Hello world!  minhyuck Ã¬ÂÂÃ¬ÂÂ¤Ã­ÂÂ¸Ã«Â¦Â¬ Test 1:36 Ã­ÂÂÃ¬ÂÂ¤Ã­ÂÂ¸!
+	íì¤í¸ìëë¤
+	테스트~~
+	
 </h1>
+=======
+
+>>>>>>> refs/heads/kyg
 
 <P>  The time on the server is ${serverTime}. </P>
+<<<<<<< HEAD
+<h1>sadasdasd</h1>
+=======
+<h1>ë¸ëì¹íì¤í¸</h1>
+<h2>브랜치연습</h2>
+>>>>>>> refs/heads/kyg
 </body>
 </html>
