@@ -6,8 +6,10 @@
 </head>
 <body>
 <h1>
-	Hello world!  minhyuck ìì¤í¸ë¦¬ Test 1:36 íì¤í¸!
-	테스트입니다
+	Hello world!  minhyuck Ã¬ÂÂÃ¬ÂÂ¤Ã­ÂÂ¸Ã«Â¦Â¬ Test 1:36 Ã­ÂÂÃ¬ÂÂ¤Ã­ÂÂ¸!
+	íì¤í¸ìëë¤
+	테스트~~
+	
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
